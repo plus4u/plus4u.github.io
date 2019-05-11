@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Knowledge sharing
+description: My Blog
+author: gh Seo
+# logo:  
+github: https://github.com/plus4u
+about: plus4u open coaching
 
 baseurl: ""
 url: ""
